@@ -143,8 +143,6 @@ OpportunityAI/
 
 ### Step 1: Clone the Repository
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ```bash
 git clone https://github.com/donasripamarthi/OpportunityAI.git
 ```
